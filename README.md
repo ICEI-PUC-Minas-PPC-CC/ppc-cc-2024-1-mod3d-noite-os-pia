@@ -1,7 +1,7 @@
 # Animação DeadPool
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: Modelagem 3d`
+`Disciplina: Modelagem 3D`
 `2021 - Semestre 2`
 
 ## Integrantes
