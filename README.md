@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Animação DeadPool
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,12 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Kauã Barbosa
+- Jonas Teixeira
 
 ## Professor
 
-- Mestre Yoda
+- Will Ricardo dos Santos Machado
 
 # Documentação
 
